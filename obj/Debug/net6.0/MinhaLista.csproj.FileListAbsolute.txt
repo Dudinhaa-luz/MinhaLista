@@ -1,0 +1,15 @@
+D:\Projetos\C#\Calculadora\MinhaLista\bin\Debug\net6.0\MinhaLista.exe
+D:\Projetos\C#\Calculadora\MinhaLista\bin\Debug\net6.0\MinhaLista.deps.json
+D:\Projetos\C#\Calculadora\MinhaLista\bin\Debug\net6.0\MinhaLista.runtimeconfig.json
+D:\Projetos\C#\Calculadora\MinhaLista\bin\Debug\net6.0\MinhaLista.dll
+D:\Projetos\C#\Calculadora\MinhaLista\bin\Debug\net6.0\MinhaLista.pdb
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.csproj.AssemblyReference.cache
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.AssemblyInfoInputs.cache
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.AssemblyInfo.cs
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.dll
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\refint\MinhaLista.dll
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.pdb
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\MinhaLista.genruntimeconfig.cache
+D:\Projetos\C#\Calculadora\MinhaLista\obj\Debug\net6.0\ref\MinhaLista.dll
